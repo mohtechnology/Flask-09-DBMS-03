@@ -7,6 +7,4 @@ In this tutorial, I demonstrate how to retrieve and render data from a database 
 
 This is a crucial step for anyone looking to build dynamic web pages in Flask.
 
-Complete Explanation: [Click Here To Open The Complete Video](https://youtu.be/6ku793E8BRU)
-
-#Flask #SQLAlchemy #Python #WebDevelopment #DatabaseRendering #Jinja2 #DynamicWebPages #CodingInHindi #PythonWeb #SQL
+### Complete Explanation: [Click Here To Open The Complete Video](https://youtu.be/6ku793E8BRU)
